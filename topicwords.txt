@@ -1,0 +1,38 @@
+C:\Users\wxwyl\Anaconda3\python.exe C:/Users/wxwyl/Desktop/wylcode/nmf-train-save/nmf-train-save.py
+Downloading 20news dataset. This may take a few minutes.
+Loading, training, and saving 20 news groups model
+Downloading dataset from https://ndownloader.figshare.com/files/5975967 (14 MB)
+Topic #0: don just people think like know time good right ve
+Topic #1: card video monitor drivers cards bus vga driver color ram
+Topic #2: god jesus bible christ faith believe christian christians church sin
+Topic #3: game team year games season players play hockey win player
+Topic #4: car new 00 sale 10 price offer condition shipping 20
+Topic #5: thanks does know advance mail hi anybody info looking help
+Topic #6: windows file use files dos window program using problem running
+Topic #7: edu soon cs university com email internet article ftp send
+Topic #8: key chip encryption clipper keys government escrow public use algorithm
+Topic #9: drive scsi drives hard disk ide controller floppy cd mac
+
+Loading, training, and saving Shakespeare model
+Topic #0: thou art hast st dost wilt shalt know say man
+Topic #1: enter messenger king attendants servant gloucester lords duke queen henry
+Topic #2: shall know make say hear live time think speak king
+Topic #3: lord good ay know noble say tis king gracious did
+Topic #4: sir good know ay pray john man say did marry
+Topic #5: exit servant falstaff messenger gentleman body lucius boy gloucester cassio
+Topic #6: thy hand father heart hath love life let master face
+Topic #7: exeunt flourish attendants lords gloucester train king henry hamlet servants
+Topic #8: come let away hither ll know say time speak good
+Topic #9: thee ll love make tell good did pray hath man
+
+Loading, training, and saving Delta model
+Topic #0: dm number confirmation url follow look link ticket pls share
+Topic #1: thank welcome flying feedback appreciate great delta loyalty sharing day
+Topic #2: hashtag url enjoy sharing glad happy conf flying amp love
+Topic #3: let know assistance need sorry amv rebooking assist delay apologies
+Topic #4: flight delayed delay sorry time crew gate hours hi hear
+Topic #5: thanks great welcome url delta choosing awesome day shout sharing
+Topic #6: bag baggage check claim airport bags lost checked luggage team
+Topic #7: service customer hear eerience sorry team care time appreciate great
+Topic #8: seat delta upgrade seats comfort middle available class hi economy
+Topic #9: help hello assist hi need skymiles account change happy hold
