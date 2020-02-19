@@ -12,8 +12,14 @@ These codes are based on my papers below:
 
   1. **seq2seq.py** : Basic RNN seq2seq model for chatbot  
   2. **ta_seq2seq.py** : Gives TopicAttension and TopicDecoder -- RNN decoder for generating predicted probability distirbution for the next word using NMF-induced topic biasing
-  3. **seq2seq_chatbot_train** : Trains chatbot over the given conversaional data set and chosen NMF-topic filter (DeltaAirline, 20NewsGroups, and Shakespeare)
+  3. **seq2seq_chatbot_train.py** : Trains chatbot over the given conversaional data set and chosen NMF-topic filter (DeltaAirline, 20NewsGroups, and Shakespeare)
   4. **chat_app.py** : Run and chat with chosen topic-aware chatbot model
+  
+## How to run
+
+  1. Run "seq2seq_chatbot_train.py" after choosing the desired NMF topic biasing 
+  2. Run "chat_app.py" after choosing the training checkpoint iteration "checkpoint_loading_from = xxx"
+  3. Chat with our bot! 
   
 ## Authors
 
