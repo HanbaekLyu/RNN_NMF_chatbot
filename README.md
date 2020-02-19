@@ -27,4 +27,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Initial seq2seq chatbot model in pytorch -- Matthew Inkawhich [Link](https://pytorch.org/tutorials/beginner/chatbot_tutorial.html)
-* Project is supported by REU 2019 at UCLA Mathematics
+* Project has been supported by REU 2019 at UCLA Mathematics
